@@ -1,0 +1,2 @@
+FLASK_APP=movie_watchlist
+FLASK_DEBUG=true
